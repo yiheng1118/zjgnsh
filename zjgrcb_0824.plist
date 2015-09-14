@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.105:8080/zjgnsh/zjgnsh.ipa</string>
+					<string>http://192.168.1.127:8080/zjgnsh/zjgnsh.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.105:8080/zjgnsh/114x114.png</string>
+					<string>http://192.168.1.127:8080/zjgnsh/114x114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.105:8080/zjgnsh/57x57.png</string>
+					<string>http://192.168.1.127:8080/zjgnsh/57x57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
